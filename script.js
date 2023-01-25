@@ -1,6 +1,4 @@
-/**
- * @author : ezekiel kouassi
- */
+
 
 /* ******************* Exercice 1 : Divisible By Three **************** */
 
@@ -21,7 +19,7 @@ for(let value of numbers) {
     (value % 3 == 0) ? console.log(true) : console.log(false);
 }
 
-/* ******************* End of Exercice 1 ******************* */
+
 
 /* ****************** Exercice 2 : Attendance ***************** */
 
@@ -54,7 +52,7 @@ else {
     console.log("Hi! I'm a guest.");
 }
 
-/* ******************* End of Exercice 2 ***************** */
+
 
 /* ****************** Exercice 3 **************** */
 
@@ -87,4 +85,3 @@ console.log(`The sum is : ${sum}`);
 console.log(`The highest age is : ${hightestItems}`);
 
 
-/* ****************** End of Exercice 3 **************** */
